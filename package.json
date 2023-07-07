@@ -1,0 +1,19 @@
+{
+  "name": "nodejs",
+  "version": "18.1.0",
+  "description": "Simple Web App",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VishalRaj4138/CTS_NODEJS.git"
+  },
+  "author": "Vishal Baranwal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VishalRaj4138/CTS_NODEJS/issues"
+  },
+  "homepage": "https://github.com/VishalRaj4138/CTS_NODEJS#readme"
+}
